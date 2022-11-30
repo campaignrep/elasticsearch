@@ -18,7 +18,7 @@ optimized for search.
 
 {es} performs text analysis when indexing or searching <<text,`text`>> fields.
 
-If your index doesn't contain `text` fields, no further setup is needed; you can
+If your index doesn't contain `text` fields OR `search_as_you_type` fields, no further setup is needed; you can
 skip the pages in this section.
 
 However, if you use `text` fields or your text searches aren't returning results
